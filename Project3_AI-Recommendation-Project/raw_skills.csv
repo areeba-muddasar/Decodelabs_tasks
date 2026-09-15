@@ -1,0 +1,52 @@
+job_role,skills
+Data Scientist,Python SQL Machine Learning Data Analysis Statistics Pandas NumPy Scikit-learn
+DevOps Engineer,AWS Docker Kubernetes CI/CD Linux Jenkins Terraform Ansible
+Backend Developer,Java Python SQL APIs Data Structures Node.js MongoDB Express REST
+Cloud Architect,AWS Cloud Computing Automation Docker Kubernetes Terraform Azure
+Frontend Developer,JavaScript React HTML CSS Web Design TypeScript Redux Vue
+ML Engineer,Python TensorFlow PyTorch Machine Learning Deep Learning NLP Computer Vision
+System Admin,Linux Networking Shell Scripting Automation Security Bash Monitoring
+Full Stack Developer,JavaScript Python React Node.js SQL MongoDB Express REST
+Data Analyst,SQL Excel Python Data Visualization Tableau Statistics Power BI
+Security Engineer,Cybersecurity Networking Linux Encryption Firewalls Python Penetration Testing
+Mobile Developer,Swift Kotlin Java React Native Flutter iOS Android Mobile UI
+Game Developer,C++ Unity Unreal Engine 3D Modeling Graphics Programming Physics
+Blockchain Developer,Solidity Ethereum Smart Contracts Web3 Cryptography Distributed Systems
+AR VR Developer,Unity C# ARKit VR Modeling 3D Graphics Simulation
+QA Engineer,Selenium Testing Automation Java Python Bug Tracking TestNG
+Database Administrator,SQL Oracle MySQL PostgreSQL Backup Recovery Performance Tuning
+Network Engineer,Cisco Routing Switching Firewalls TCP/IP Linux VLAN
+Site Reliability Engineer,Linux Kubernetes Monitoring Prometheus Grafana CI/CD AWS
+Data Engineer,Python SQL ETL Spark Hadoop Airflow Kafka Data Pipelines
+AI Research Scientist,Python Deep Learning Mathematics Statistics Research PyTorch TensorFlow
+Computer Vision Engineer,Python OpenCV TensorFlow PyTorch Image Processing Deep Learning
+NLP Engineer,Python NLP Transformers BERT GPT Text Processing Machine Learning
+Robotics Engineer,C++ Python ROS Kinematics Control Systems Sensors Automation
+Embedded Systems Engineer,C C++ Microcontrollers RTOS Hardware Debugging IoT
+IoT Developer,Python C IoT MQTT Sensors Raspberry Pi Arduino Cloud
+Cloud Security Engineer,AWS Azure Security Encryption IAM Compliance Kubernetes
+Penetration Tester,Kali Linux Metasploit Burp Suite Networking Python Exploits Security
+SOC Analyst,Security Monitoring SIEM Splunk Incident Response Networking Linux
+IT Support Specialist,Windows Linux Networking Troubleshooting Hardware Customer Service
+Technical Support Engineer,Linux Networking SQL APIs Troubleshooting Debugging Customer Service
+Solutions Architect,AWS Azure Cloud Design Architecture Kubernetes Microservices
+Enterprise Architect,Java Enterprise Architecture SOA Microservices Cloud Design Patterns
+Software Engineer,Java Python C++ Data Structures Algorithms Git OOP
+Senior Software Engineer,Java Python System Design Microservices Cloud Kubernetes Mentoring
+Principal Engineer,Java Python Architecture Scalability Distributed Systems Leadership
+Engineering Manager,Leadership Agile Project Management Software Development Mentoring
+Product Manager,Agile Roadmap User Research Analytics Communication Strategy
+Technical Program Manager,Agile Program Management Cross-functional Communication Jira
+Scrum Master,Agile Scrum Kanban Facilitation Coaching Jira
+Business Analyst,SQL Excel Analytics Requirements Communication Tableau
+Data Architect,SQL Data Modeling ETL Data Warehousing Cloud Big Data
+BI Developer,SQL Power BI Tableau ETL Data Visualization Reporting
+Analytics Engineer,SQL Python dbt Data Modeling ETL Analytics
+Machine Learning Ops,Python Docker Kubernetes MLflow CI/CD AWS TensorFlow
+AI Product Manager,AI Machine Learning Product Strategy Roadmap Analytics Communication
+Prompt Engineer,Python NLP LLM Prompt Design Testing ChatGPT API
+Generative AI Engineer,Python LLM Diffusion Models GANs Transformers PyTorch
+Recommendation Systems Engineer,Python Machine Learning Collaborative Filtering Matrix Factorization TensorFlow
+Search Engineer,Python Elasticsearch Solr Information Retrieval Ranking NLP
+Blockchain Architect,Solidity Ethereum Hyperledger Smart Contracts Cryptography Architecture
+Cloud Consultant,AWS Azure GCP Cloud Migration Cost Optimization Architecture

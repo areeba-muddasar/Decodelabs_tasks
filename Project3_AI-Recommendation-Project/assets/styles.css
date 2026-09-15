@@ -1,0 +1,164 @@
+/* ============================================================
+   Project 3: Tech Stack Recommender
+   Custom Styles for Streamlit App
+   DecodeLabs | Batch 2026
+   ============================================================ */
+
+/* ---------- Main Header ---------- */
+.main-title {
+    font-size: 2.8rem;
+    font-weight: 800;
+    background: linear-gradient(90deg, #667eea, #764ba2);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.sub-title {
+    text-align: center;
+    color: #666;
+    font-size: 1rem;
+    margin-top: 0.5rem;
+    margin-bottom: 2rem;
+}
+
+/* ---------- Recommendation Card ---------- */
+.rec-card {
+    background: white;
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+    border-left: 5px solid #667eea;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.rec-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 20px rgba(102, 126, 234, 0.25);
+}
+
+.rec-card h3 {
+    margin: 0 0 0.5rem 0;
+    color: #333;
+}
+
+/* ---------- Match Badge ---------- */
+.match-badge {
+    display: inline-block;
+    padding: 0.3rem 0.8rem;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    font-weight: bold;
+    margin-left: 0.5rem;
+}
+
+.badge-excellent {
+    background: #d4edda;
+    color: #155724;
+}
+
+.badge-good {
+    background: #fff3cd;
+    color: #856404;
+}
+
+.badge-fair {
+    background: #ffe5d0;
+    color: #8a4b08;
+}
+
+.badge-low {
+    background: #f8d7da;
+    color: #721c24;
+}
+
+/* ---------- Skill Tag ---------- */
+.skill-tag {
+    display: inline-block;
+    background: #eef2ff;
+    color: #4338ca;
+    padding: 0.25rem 0.65rem;
+    border-radius: 12px;
+    margin: 0.15rem;
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+/* ---------- Compare Card ---------- */
+.compare-card {
+    background: linear-gradient(135deg, #f5f7ff 0%, #eef2ff 100%);
+    padding: 1.5rem;
+    border-radius: 12px;
+    border: 2px solid #667eea;
+}
+
+.compare-card h3 {
+    color: #4338ca;
+    margin-top: 0;
+}
+
+/* ---------- Metric Box ---------- */
+.metric-box {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 1rem;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.metric-box h2 {
+    margin: 0;
+    color: white;
+}
+
+.metric-box p {
+    margin: 0;
+    opacity: 0.9;
+    font-size: 0.85rem;
+}
+
+/* ---------- Streamlit Button Override ---------- */
+.stButton > button {
+    border-radius: 8px;
+    font-weight: 600;
+    transition: all 0.2s ease;
+}
+
+.stButton > button:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+}
+
+/* ---------- Tabs Styling ---------- */
+.stTabs [data-baseweb="tab-list"] {
+    gap: 8px;
+}
+
+.stTabs [data-baseweb="tab"] {
+    height: 45px;
+    border-radius: 8px 8px 0 0;
+    padding: 0 20px;
+    font-weight: 500;
+}
+
+.stTabs [aria-selected="true"] {
+    background-color: #eef2ff;
+    color: #4338ca;
+}
+
+/* ---------- Footer ---------- */
+.footer-text {
+    text-align: center;
+    color: #666;
+    font-size: 0.85rem;
+    margin-top: 2rem;
+}
+
+/* ---------- Progress Bar Color ---------- */
+.stProgress > div > div > div > div {
+    background: linear-gradient(90deg, #667eea, #764ba2);
+}
