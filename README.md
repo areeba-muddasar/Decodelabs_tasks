@@ -217,6 +217,6 @@ GitHub: [@areeba-muddasar](https://github.com/areeba-muddasar)
 
 ---
 
-## 🙏 Acknowledgement
+## 🏢 Acknowledgement
 
-I would like to thank **DecodeLabs** for providing the opportunity to work on practical Artificial Intelligence projects and gain hands-on experience during the **AI Internship**
+I would like to thank **DecodeLabs** for providing the opportunity to work on practical Artificial Intelligence projects and gain hands-on experience during the **AI Internship**.
