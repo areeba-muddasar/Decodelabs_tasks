@@ -1,6 +1,6 @@
 # 🎯 AI Tech Stack Recommender
 
-A **Content-Based Recommendation System** developed as part of the **DecodeLabs Artificial Intelligence Internship — Batch 2026**.
+A **Content-Based Recommendation System** developed as part of the **DecodeLabs Artificial Intelligence Internship**.
 
 The system analyzes a user's skills and recommends the most relevant **technology-focused career roles** using **TF-IDF Vectorization** and **Cosine Similarity**.
 
@@ -280,21 +280,3 @@ Through this project, I gained practical experience in:
 - Creating user-friendly data applications
 - Managing Python dependencies
 - Git and GitHub workflow
-
----
-
-## 👩‍💻 Author
-
-**Areeba Muddasar**  
-Artificial Intelligence Graduate — FAST-NUCES
-
----
-
-## 🏢 Internship
-
-**DecodeLabs — Artificial Intelligence Internship**  
-**Batch 2026**
-
----
-
-⭐ Developed as part of my practical AI internship project work at DecodeLabs.
