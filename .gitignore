@@ -1,0 +1,53 @@
+# ================================
+# Virtual Environment
+# ================================
+venv/
+env/
+ENV/
+.venv/
+
+# ================================
+# Python
+# ================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# ================================
+# IDE
+# ================================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ================================
+# Jupyter Notebook
+# ================================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ================================
+# OS Files
+# ================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ================================
+# Project Specific
+# ================================
+Project3_AI-Recommendation-Project/output/
+Project3_AI-Recommendation-Project/venv/
+.streamlit/secrets.toml
+
+# ================================
+# Logs & Temp
+# ================================
+*.log
+*.tmp
