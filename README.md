@@ -5,6 +5,7 @@ This repository contains the projects completed during my **Artificial Intellige
 The projects demonstrate practical implementation of **Python programming, rule-based AI, supervised machine learning, data processing, recommendation systems, and model evaluation**.
 
 
+---
 
 ## 📌 Projects
 
