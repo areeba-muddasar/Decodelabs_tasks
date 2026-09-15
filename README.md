@@ -1,178 +1,186 @@
 # 🤖 DecodeLabs AI Internship Projects
 
-This repository contains the projects completed during my **Artificial Intelligence Internship at DecodeLabs — Batch 2026**.
+Welcome to my Artificial Intelligence Internship Projects repository, developed during my AI Internship at DecodeLabs — Batch 2026.
 
-The projects demonstrate practical implementation of Python programming, rule-based AI, data handling, supervised machine learning, and model evaluation.
+This repository contains three practical projects covering rule-based AI, supervised machine learning, and content-based recommendation systems.
 
----
+Each project demonstrates a different aspect of Artificial Intelligence and Machine Learning, from building a conversational chatbot to developing a machine learning classifier and an AI-powered career recommendation system.
 
-## 📌 Projects
+# 📌 Projects Overview
+#	Project	Main Concepts	Technologies
+1	🤖 Rule-Based AI Chatbot	Rule-Based AI, Knowledge Base, Input Processing	Python
+2	🌸 Iris Data Classification	Supervised ML, KNN, Data Preprocessing	Python, Scikit-learn
+3	🎯 AI Tech Stack Recommender	TF-IDF, Cosine Similarity, Content-Based Filtering	Python, Streamlit, Scikit-learn
+🤖 Project 1 — Rule-Based AI Chatbot
 
-### Project 1 — Rule-Based AI Chatbot
+A Python-based conversational chatbot that responds to user queries using predefined rules and a dictionary-based knowledge base.
 
-A Python-based conversational chatbot that uses predefined rules and a dictionary-based knowledge base to respond to user queries.
+Highlights
+Interactive command-line chatbot
+Greeting and help commands
+AI, Machine Learning, Deep Learning, Python, and Data Science topics
+Input sanitization
+Name detection and memory
+Conversation history
+Session statistics
+Time and date commands
+Multiple variations for similar intents
+Fallback responses
+Colored terminal interface
 
-#### Key Features
+📂 Project Folder: Project1_Rule_Based_Chatbot
 
-* Interactive command-line conversation
-* Greeting and help commands
-* AI, Machine Learning, Deep Learning, Python, and Data Science topics
-* Predefined knowledge base
-* Input sanitization and processing
-* Name detection and memory
-* Conversation history
-* Session statistics
-* Time and date commands
-* Fallback responses for unknown questions
-* Exit and goodbye commands
-* Colored terminal interface
+📖 Documentation: See the project's README.md
 
-#### Files
+🌸 Project 2 — Iris Data Classification
 
-```text
-Project1_Rule_Based_Chatbot/
-│
-├── chatbot.py
-├── colors.py
-├── knowledge_base.py
-└── .gitignore
-```
+A supervised machine learning project using the Iris Dataset to classify flowers into three species using the K-Nearest Neighbors (KNN) algorithm.
 
-#### Technologies
+Highlights
+150 Iris samples
+Three target classes
+Four input features
+Data preprocessing
+80/20 train-test split
+Feature scaling using StandardScaler
+KNN classifier with K = 5
+Confusion Matrix
+Precision, Recall, and F1 Score
+Data visualization
 
-* Python
-* Regular Expressions
-* Dictionaries
-* Functions
-* Conditional Logic
-* Git & GitHub
+📂 Project Folder: Project2_Data_Classification
 
----
+📖 Documentation: See the project's README.md
 
-### Project 2 — Data Classification Using AI
+🎯 Project 3 — AI Tech Stack Recommender
 
-A supervised machine learning project using the **Iris Dataset** to classify flowers into three different species based on their measurements.
+A Content-Based Recommendation System that analyzes a user's skills and recommends relevant technology career roles using TF-IDF Vectorization and Cosine Similarity.
 
-The project demonstrates a complete basic machine learning workflow, from data preparation and feature scaling to model training and evaluation.
+The project is presented through an interactive Streamlit web application.
 
-#### Key Features
+Highlights
+Content-Based Filtering
+TF-IDF Vectorization
+Cosine Similarity
+Similarity-score ranking
+Top-N recommendations
+Skill Gap Analysis
+Job Directory
+Search & Filter
+Job comparison
+Analytics dashboard
+Plotly visualizations
+Cold Start handling
+CSV export
+Custom CSS styling
+50+ technology-oriented job roles
 
-* Iris Dataset with 150 samples
-* Three target classes
-* Four input features
-* Data preprocessing
-* Feature scaling using `StandardScaler`
-* 80/20 train-test split
-* K-Nearest Neighbors (KNN) classifier
-* K = 5
-* Confusion Matrix
-* Precision, Recall, and F1 Score
-* Model evaluation
+📂 Project Folder: Project3_AI-Recommendation-Project
 
-#### File
+📖 Documentation: See the project's README.md
 
-```text
-Project2_Data_Classification.ipynb
-```
-
-#### Technologies
-
-* Python
-* Pandas
-* NumPy
-* Scikit-learn
-* Matplotlib
-* Seaborn
-* Jupyter Notebook / Google Colab
-
----
-
-## 🛠️ Technologies Used
-
-| Category         | Technologies                            |
-| ---------------- | --------------------------------------- |
-| Programming      | Python 3.x                              |
-| Data Handling    | Pandas, NumPy                           |
-| Machine Learning | Scikit-learn                            |
-| Visualization    | Matplotlib, Seaborn                     |
-| Development      | VS Code, Jupyter Notebook, Google Colab |
-| Version Control  | Git, GitHub                             |
-
----
-
-## 📂 Repository Structure
-
-```text
+🛠️ Technologies Used
+Programming
+Python 3.x
+Data Science & Machine Learning
+Pandas
+NumPy
+Scikit-learn
+K-Nearest Neighbors
+StandardScaler
+Recommendation Systems
+TF-IDF
+Cosine Similarity
+Content-Based Filtering
+Visualization
+Matplotlib
+Seaborn
+Plotly
+Application Development
+Streamlit
+Development & Version Control
+Jupyter Notebook
+Google Colab
+VS Code
+Git
+GitHub
+📂 Repository Structure
 Decodelabs_tasks/
 │
 ├── Project1_Rule_Based_Chatbot/
 │   ├── chatbot.py
 │   ├── colors.py
 │   ├── knowledge_base.py
-│   └── .gitignore
+│   ├── .gitignore
+│   └── README.md
 │
-├── Project2_Data_Classification.ipynb
+├── Project2_Data_Classification/
+│   ├── Project2_Data_Classification.ipynb
+│   └── README.md
+│
+├── Project3_AI-Recommendation-Project/
+│   ├── .streamlit/
+│   │   └── config.toml
+│   ├── assets/
+│   │   └── styles.css
+│   ├── output/
+│   ├── raw_skills.csv
+│   ├── app.py
+│   ├── recommender.py
+│   ├── requirements.txt
+│   └── README.md
 │
 └── README.md
-```
+🎯 Learning Outcomes
 
----
+These projects provided hands-on experience with:
 
-## 🚀 How to Run
+Python programming
+Problem solving and logical thinking
+Rule-based AI systems
+Knowledge-base design
+User input processing
+Supervised machine learning
+Data preprocessing
+Feature scaling
+Classification algorithms
+Model evaluation
+Confusion matrices and evaluation metrics
+Recommendation systems
+TF-IDF Vectorization
+Cosine Similarity
+Content-Based Filtering
+Similarity-based ranking
+Streamlit application development
+Interactive data visualization
+Git and GitHub
+🚀 Project Navigation
 
-### Project 1 — Rule-Based AI Chatbot
+Explore each project:
 
-Navigate to the Project 1 folder:
+🤖 Project 1 — Rule-Based AI Chatbot
 
-```bash
-cd Project1_Rule_Based_Chatbot
-```
+A rule-based conversational AI system built with Python.
 
-Run the chatbot:
+🌸 Project 2 — Iris Data Classification
 
-```bash
-python chatbot.py
-```
+A supervised machine learning classification project using KNN.
 
-### Project 2 — Data Classification
+🎯 Project 3 — AI Tech Stack Recommender
 
-Open `Project2_Data_Classification.ipynb` using **Jupyter Notebook** or **Google Colab** and run the cells sequentially.
+A content-based career recommendation system using TF-IDF and Cosine Similarity.
 
----
+👩‍💻 Author
 
-## 🎯 Learning Outcomes
-
-Through these projects, I gained practical experience in:
-
-* Python programming and problem solving
-* Rule-based conversational systems
-* Input processing and validation
-* Knowledge-base design
-* Supervised machine learning
-* Data preprocessing
-* Feature scaling
-* Model training and evaluation
-* Classification algorithms
-* Confusion matrix and evaluation metrics
-* Git and GitHub workflow
-
----
-
-## 👩‍💻 Author
-
-**Areeba Muddasar**
+Areeba Muddasar
 
 Artificial Intelligence Graduate
 FAST-NUCES
 
-GitHub: [@areeba-muddasar](https://github.com/areeba-muddasar)
+GitHub: @areeba-muddasar
 
----
+🙏 Acknowledgement
 
-## 🙏 Acknowledgement
+I would like to thank DecodeLabs for providing the opportunity to work on practical Artificial Intelligence projects and gain hands-on experience during the AI Internship — Batch 2026.
 
-I would like to thank **DecodeLabs** for providing the opportunity to work on practical Artificial Intelligence projects and gain hands-on experience during the **AI Internship — Batch 2026**.
-
----
-
-*DecodeLabs AI Internship — Batch 2026*
+⭐ DecodeLabs AI Internship — Batch 2026
