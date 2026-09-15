@@ -1,6 +1,6 @@
 # 🤖 DecodeLabs AI Internship Projects
 
-Welcome to my **Artificial Intelligence Internship Projects** repository, developed during my **AI Internship at DecodeLabs — Batch 2026**.
+Welcome to my **Artificial Intelligence Internship Projects** repository, developed during my **AI Internship at DecodeLabs**
 
 This repository contains three practical projects covering **rule-based AI, supervised machine learning, and content-based recommendation systems**.
 
@@ -219,8 +219,4 @@ GitHub: [@areeba-muddasar](https://github.com/areeba-muddasar)
 
 ## 🙏 Acknowledgement
 
-I would like to thank **DecodeLabs** for providing the opportunity to work on practical Artificial Intelligence projects and gain hands-on experience during the **AI Internship — Batch 2026**.
-
----
-
-⭐ **DecodeLabs AI Internship — Batch 2026**
+I would like to thank **DecodeLabs** for providing the opportunity to work on practical Artificial Intelligence projects and gain hands-on experience during the **AI Internship**
