@@ -61,7 +61,7 @@ A supervised machine learning project using the **Iris Dataset** to classify flo
 
 📂 **Project Folder:** `Project2_Data_Classification`
 
-📖 **Documentation:** See the project's [`README.md`](Project2_Data_Classification/README.md)
+📖 **Documentation:** See the project's [Project 2 README.md](<Project2_Data_Classification/Project 2 README.md>)
 
 ---
 
@@ -91,7 +91,7 @@ The project is presented through an interactive **Streamlit web application**.
 
 📂 **Project Folder:** `Project3_AI-Recommendation-Project`
 
-📖 **Documentation:** See the project's [`README.md`](Project3_AI-Recommendation-Project/README.md)
+📖 **Documentation:** See the project's [Project 3 README.md](<Project3_AI-Recommendation-Project/Project 3 README.md>)
 
 ---
 
