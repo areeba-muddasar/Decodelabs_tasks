@@ -1,8 +1,8 @@
 # 🤖 DecodeLabs AI Internship Projects
 
-This repository contains the projects completed during my **Artificial Intelligence Internship at DecodeLabs — Batch 2026**.
+This repository contains the projects completed during my **Artificial Intelligence Internship at DecodeLabs **.
 
-The projects demonstrate practical implementation of Python programming, rule-based AI, data handling, supervised machine learning, and model evaluation.
+The projects demonstrate practical implementation of **Python programming, rule-based AI, supervised machine learning, data processing, recommendation systems, and model evaluation**.
 
 ---
 
@@ -20,7 +20,7 @@ A Python-based conversational chatbot that uses predefined rules and a dictionar
 * Predefined knowledge base
 * Input sanitization and processing
 * Name detection and memory
-* Conversation history
+* Conversation history tracking
 * Session statistics
 * Time and date commands
 * Fallback responses for unknown questions
@@ -49,11 +49,11 @@ Project1_Rule_Based_Chatbot/
 
 ---
 
-### Project 2 — Data Classification Using AI
+### Project 2 — Data Classification Using Machine Learning
 
 A supervised machine learning project using the **Iris Dataset** to classify flowers into three different species based on their measurements.
 
-The project demonstrates a complete basic machine learning workflow, from data preparation and feature scaling to model training and evaluation.
+The project demonstrates a complete basic machine learning workflow, including data preparation, feature scaling, model training, prediction, and evaluation.
 
 #### Key Features
 
@@ -87,6 +87,107 @@ Project2_Data_Classification.ipynb
 
 ---
 
+### Project 3 — AI Recommendation Logic: Tech Stack Recommender
+
+A **Content-Based Recommendation System** that maps a user's skills to the most relevant tech career paths using **TF-IDF Vectorization** and **Cosine Similarity**.
+
+The project implements a complete recommendation pipeline, from user input processing and similarity scoring to ranked Top-N recommendations. The system is presented through an interactive **Streamlit web application**.
+
+#### Key Features
+
+* Content-Based Filtering
+* TF-IDF (Term Frequency–Inverse Document Frequency) Vectorization
+* Cosine Similarity for recommendation ranking
+* Recommendation pipeline:
+
+  * Ingestion
+  * Scoring
+  * Sorting
+  * Filtering
+* Interactive Streamlit web application
+* Recommendations dashboard
+* Job Directory
+* Search & Filter functionality
+* Analytics dashboard
+* Job comparison
+* Dataset information
+* Customizable Top-N recommendations
+* Skill Gap Analysis
+* Match-score visualizations using Plotly
+* Cold Start handling with trending recommendations
+* CSV export of recommendations
+* Custom CSS styling
+* Dataset containing 50+ job roles and required skills
+
+#### Files
+
+```text
+Project3_AI-Recommendation-Project/
+│
+├── .streamlit/
+│   └── config.toml
+├── assets/
+│   └── styles.css
+├── output/
+├── raw_skills.csv
+├── app.py
+├── recommender.py
+├── requirements.txt
+└── README.md
+```
+
+#### Technologies
+
+* Python
+* Streamlit
+* Pandas
+* Scikit-learn
+* Plotly
+* TF-IDF
+* Cosine Similarity
+* Content-Based Filtering
+
+#### How to Run
+
+Navigate to the Project 3 directory:
+
+```bash
+cd Project3_AI-Recommendation-Project
+```
+
+Create and activate a virtual environment:
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the Streamlit application:
+
+```bash
+streamlit run app.py
+```
+
+The application will open in your browser at:
+
+```text
+http://localhost:8501
+```
+
+The recommendation logic can also be executed through the command line:
+
+```bash
+python recommender.py
+```
+
+---
+
 ## 🛠️ Technologies Used
 
 | Category         | Technologies                            |
@@ -94,7 +195,9 @@ Project2_Data_Classification.ipynb
 | Programming      | Python 3.x                              |
 | Data Handling    | Pandas, NumPy                           |
 | Machine Learning | Scikit-learn                            |
-| Visualization    | Matplotlib, Seaborn                     |
+| Visualization    | Matplotlib, Seaborn, Plotly             |
+| Web Framework    | Streamlit                               |
+| Recommendation   | TF-IDF, Cosine Similarity               |
 | Development      | VS Code, Jupyter Notebook, Google Colab |
 | Version Control  | Git, GitHub                             |
 
@@ -113,6 +216,18 @@ Decodelabs_tasks/
 │
 ├── Project2_Data_Classification.ipynb
 │
+├── Project3_AI-Recommendation-Project/
+│   ├── .streamlit/
+│   │   └── config.toml
+│   ├── assets/
+│   │   └── styles.css
+│   ├── output/
+│   ├── raw_skills.csv
+│   ├── app.py
+│   ├── recommender.py
+│   ├── requirements.txt
+│   └── README.md
+│
 └── README.md
 ```
 
@@ -122,7 +237,7 @@ Decodelabs_tasks/
 
 ### Project 1 — Rule-Based AI Chatbot
 
-Navigate to the Project 1 folder:
+Navigate to the Project 1 directory:
 
 ```bash
 cd Project1_Rule_Based_Chatbot
@@ -134,9 +249,51 @@ Run the chatbot:
 python chatbot.py
 ```
 
+---
+
 ### Project 2 — Data Classification
 
-Open `Project2_Data_Classification.ipynb` using **Jupyter Notebook** or **Google Colab** and run the cells sequentially.
+Open:
+
+```text
+Project2_Data_Classification.ipynb
+```
+
+Run the notebook using **Jupyter Notebook** or **Google Colab**.
+
+---
+
+### Project 3 — Tech Stack Recommender
+
+Navigate to the Project 3 directory:
+
+```bash
+cd Project3_AI-Recommendation-Project
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the Streamlit application:
+
+```bash
+streamlit run app.py
+```
+
+Open:
+
+```text
+http://localhost:8501
+```
+
+Alternatively, run the recommendation system through the CLI:
+
+```bash
+python recommender.py
+```
 
 ---
 
@@ -154,6 +311,12 @@ Through these projects, I gained practical experience in:
 * Model training and evaluation
 * Classification algorithms
 * Confusion matrix and evaluation metrics
+* Content-Based Recommendation Systems
+* TF-IDF Vectorization
+* Cosine Similarity
+* Recommendation Pipeline Design
+* Streamlit Web Application Development
+* Interactive Data Visualization
 * Git and GitHub workflow
 
 ---
@@ -171,8 +334,4 @@ GitHub: [@areeba-muddasar](https://github.com/areeba-muddasar)
 
 ## 🙏 Acknowledgement
 
-I would like to thank **DecodeLabs** for providing the opportunity to work on practical Artificial Intelligence projects and gain hands-on experience during the **AI Internship — Batch 2026**.
-
----
-
-*DecodeLabs AI Internship — Batch 2026*
+I would like to thank **DecodeLabs** for providing the opportunity to work on practical Artificial Intelligence projects and gain hands-on experience during the **AI Internship**.
