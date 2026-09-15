@@ -38,7 +38,7 @@ A Python-based conversational chatbot that responds to user queries using predef
 
 📂 **Project Folder:** `Project1_Rule_Based_Chatbot`
 
-📖 **Documentation:** See the project's [Project 1 README.md](<Project 1 README.md>)
+📖 **Documentation:** See the project's [Project 1 README.md](<Project1_Rule_Based_Chatbot/Project 1 README.md>)
 
 ---
 
