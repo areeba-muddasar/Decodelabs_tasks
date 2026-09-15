@@ -1,6 +1,6 @@
 # 🌸 Iris Flower Classification Using Machine Learning
 
-A supervised machine learning project developed as part of the **DecodeLabs Artificial Intelligence Internship — Batch 2026**.
+A supervised machine learning project developed as part of the **DecodeLabs Artificial Intelligence Internship**.
 
 The project uses the classic **Iris Dataset** and a **K-Nearest Neighbors (KNN)** classifier to predict the species of an iris flower based on its physical measurements.
 
@@ -194,21 +194,3 @@ Through this project, I gained practical experience in:
 - Data visualization
 - Using Scikit-learn for machine learning workflows
 - Working with Jupyter Notebook and Google Colab
-
----
-
-## 👩‍💻 Author
-
-**Areeba Muddasar**  
-Artificial Intelligence Graduate — FAST-NUCES
-
----
-
-## 🏢 Internship
-
-**DecodeLabs — Artificial Intelligence Internship**  
-**Batch 2026**
-
----
-
-⭐ Developed as part of my practical AI internship project work at DecodeLabs.
