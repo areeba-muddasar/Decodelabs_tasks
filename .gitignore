@@ -42,9 +42,18 @@ desktop.ini
 # ================================
 # Project Specific
 # ================================
+
+# Project 3
 Project3_AI-Recommendation-Project/output/
 Project3_AI-Recommendation-Project/venv/
 .streamlit/secrets.toml
+
+# Project 4
+Project4_Image_Text_Recognition/venv/
+Project4_Image_Text_Recognition/output/
+Project4_Image_Text_Recognition/*.pt
+Project4_Image_Text_Recognition/*.caffemodel
+Project4_Image_Text_Recognition/*.prototxt
 
 # ================================
 # Logs & Temp
