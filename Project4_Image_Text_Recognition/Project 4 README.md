@@ -1,6 +1,6 @@
 # 🖼️ Image & Text Recognition
 
-A Python-based **Computer Vision project** developed as part of the **DecodeLabs Artificial Intelligence Internship — Batch 2026**.
+A Python-based **Computer Vision project** developed as part of the **DecodeLabs Artificial Intelligence Internship**.
 
 This project combines **Optical Character Recognition (OCR)** and **Object Detection** to extract text from images and identify objects using image processing techniques and a pretrained **YOLOv8n model**.
 
@@ -382,21 +382,3 @@ The project can be further extended with:
 - Custom YOLO model training
 - Web-based interface using Streamlit
 - Real-time text and object recognition
-
----
-
-## 👩‍💻 Author
-
-**Areeba Muddasar**  
-Artificial Intelligence Graduate — FAST-NUCES
-
----
-
-## 🏢 Internship
-
-**DecodeLabs — Artificial Intelligence Internship**  
-**Batch 2026**
-
----
-
-⭐ If you find this project useful, consider giving the repository a star.
