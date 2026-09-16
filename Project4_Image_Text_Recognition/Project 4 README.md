@@ -1,6 +1,6 @@
 # Project 4: Image & Text Recognition
 
-A Python-based computer vision project implementing **OCR (Optical Character Recognition)** and **Object Detection** as part of the **DecodeLabs Artificial Intelligence Internship — Batch 2026**.
+A Python-based computer vision project implementing **OCR (Optical Character Recognition)** and **Object Detection** as part of the **DecodeLabs Artificial Intelligence Internship**.
 
 ---
 
@@ -361,24 +361,5 @@ Possible future improvements include:
 - Streamlit-based web interface
 - Mobile or edge-device deployment
 - Integration with robotics and automation
-
----
-
-## 👩‍💻 Author
-
-**Areeba Muddasar**
-
-Artificial Intelligence Graduate — FAST-NUCES
-
----
-
-## 🏢 Internship
-
-**DecodeLabs — Artificial Intelligence Internship**  
-**Batch 2026**
-
----
-
-## 📄 License
 
 This project was developed for educational purposes as part of the **DecodeLabs AI Internship — Batch 2026**.
