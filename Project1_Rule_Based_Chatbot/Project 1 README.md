@@ -1,8 +1,8 @@
 # 🤖 Rule-Based AI Chatbot
 
-A Python-based **rule-driven conversational chatbot** developed as part of the **DecodeLabs Artificial Intelligence Internship — Batch 2026**.
+A Python-based, rule-driven conversational chatbot developed during the **DecodeLabs Artificial Intelligence Internship**.
 
-A Python-based **rule-driven conversational chatbot** developed as part of the **DecodeLabs Artificial Intelligence Internship**.The chatbot uses a predefined knowledge base, input processing, pattern matching, and conditional logic to understand common user queries and provide relevant responses.
+The chatbot uses a predefined knowledge base, input processing, pattern matching, and conditional logic to understand common user queries and provide relevant responses.
 
 ---
 
