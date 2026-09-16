@@ -1,6 +1,10 @@
 # 🤖 DecodeLabs AI Internship Projects
 
+<<<<<<< HEAD
 Welcome to my **Artificial Intelligence Internship Projects** repository, developed during my **AI Internship at DecodeLabs — Batch 2026**.
+=======
+Welcome to my **Artificial Intelligence Internship Projects** repository, developed during my **AI Internship at DecodeLabs**
+>>>>>>> 19f61b04514906b1b52442d861fdfec03669bcf2
 
 This repository contains three practical projects covering **rule-based AI, supervised machine learning, and content-based recommendation systems**.
 
@@ -38,7 +42,11 @@ A Python-based conversational chatbot that responds to user queries using predef
 
 📂 **Project Folder:** `Project1_Rule_Based_Chatbot`
 
+<<<<<<< HEAD
 📖 **Documentation:** See the project's [`README.md`](Project1_Rule_Based_Chatbot/README.md)
+=======
+📖 **Documentation:** See the project's [Project 1 README.md](<Project1_Rule_Based_Chatbot/Project 1 README.md>)
+>>>>>>> 19f61b04514906b1b52442d861fdfec03669bcf2
 
 ---
 
@@ -61,7 +69,11 @@ A supervised machine learning project using the **Iris Dataset** to classify flo
 
 📂 **Project Folder:** `Project2_Data_Classification`
 
+<<<<<<< HEAD
 📖 **Documentation:** See the project's [`README.md`](Project2_Data_Classification/README.md)
+=======
+📖 **Documentation:** See the project's [Project 2 README.md](<Project2_Data_Classification/Project 2 README.md>)
+>>>>>>> 19f61b04514906b1b52442d861fdfec03669bcf2
 
 ---
 
@@ -91,7 +103,11 @@ The project is presented through an interactive **Streamlit web application**.
 
 📂 **Project Folder:** `Project3_AI-Recommendation-Project`
 
+<<<<<<< HEAD
 📖 **Documentation:** See the project's [`README.md`](Project3_AI-Recommendation-Project/README.md)
+=======
+📖 **Documentation:** See the project's [Project 3 README.md](<Project3_AI-Recommendation-Project/Project 3 README.md>)
+>>>>>>> 19f61b04514906b1b52442d861fdfec03669bcf2
 
 ---
 
@@ -217,6 +233,7 @@ GitHub: [@areeba-muddasar](https://github.com/areeba-muddasar)
 
 ---
 
+<<<<<<< HEAD
 ## 🙏 Acknowledgement
 
 I would like to thank **DecodeLabs** for providing the opportunity to work on practical Artificial Intelligence projects and gain hands-on experience during the **AI Internship — Batch 2026**.
@@ -224,3 +241,8 @@ I would like to thank **DecodeLabs** for providing the opportunity to work on pr
 ---
 
 ⭐ **DecodeLabs AI Internship — Batch 2026**
+=======
+## 🏢 Acknowledgement
+
+I would like to thank **DecodeLabs** for providing the opportunity to work on practical Artificial Intelligence projects and gain hands-on experience during the **AI Internship**.
+>>>>>>> 19f61b04514906b1b52442d861fdfec03669bcf2
